@@ -1,0 +1,14 @@
+Scene 1 (Zoom): 
+"Nairobi, the capital of Kenya, has grown rapidly in the last two decades."
+
+Scene 2 (CBD Orbit): 
+"The CBD remains the heartbeat of commerce. Population rose from 2.2M in 2000 to over 4.7M in 2024."
+
+Scene 3 (Westlands): 
+"Once a quiet suburb, Westlands is now a bustling financial district."
+
+Scene 4 (Eastlands): 
+"Residential developments in Eastlands have more than doubled since 2000."
+
+Scene 5 (Kibera): 
+"Kibera stands as a symbol of resilience, urban pressure, and hope."
