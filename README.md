@@ -10,7 +10,7 @@ This project showcases Nairobi's rapid urban development using Google Earth Stud
 
 ## 🎥 Video Preview
 
-> 🔗 *Or [click here to download the final video](assets/video/nairobi_expansion_2024.mp4)*
+> 🔗 *Or [click here to download the final video](assets/video/zoominnairobi.mp4)*
 
 ---
 
